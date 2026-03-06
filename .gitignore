@@ -1,0 +1,5 @@
+﻿.nippo_state.json
+.tmp_*.csv
+.tmp_*.html
+__pycache__/
+*.pyc
